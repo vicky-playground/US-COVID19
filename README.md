@@ -11,14 +11,14 @@ https://github.com/CSSEGISandData/COVID-19
 4. Data simplification: delete the unnecessary columns 
 5. Data organization: 
   - * calculate the total cases of each state and date
-  * create the death rate(%) column to "us_deaths" DataFrame and calculate it with map() and lambda
-  * show the ratio of each state's death cases with pie chart
-  * show the total confirmed/deaths cases per state with the higher order function - zip() 
-  * revise the names of columns with higher order function such as map() and lambda
-  * make a transpose of matrix after simplifying the data
-  * calculate the daily addition of confirmed cases and plot it (add an average line in the plot)
-  * data visualization - time series
-  * Simple linear regression for predictions: y = mx+c (y: ttl confirmed cases; x: state's confirmed cases)  with inner function
+  - * create the death rate(%) column to "us_deaths" DataFrame and calculate it with map() and lambda
+  - * show the ratio of each state's death cases with pie chart
+  - * show the total confirmed/deaths cases per state with the higher order function - zip() 
+  - * revise the names of columns with higher order function such as map() and lambda
+  - * make a transpose of matrix after simplifying the data
+  - * calculate the daily addition of confirmed cases and plot it (add an average line in the plot)
+  - * data visualization - time series
+  - * Simple linear regression for predictions: y = mx+c (y: ttl confirmed cases; x: state's confirmed cases)  with inner function
 6. Lastly, send this whole code to user's email
 
 Project setup
