@@ -10,7 +10,7 @@ https://github.com/CSSEGISandData/COVID-19
 3. Data summarization: sum all the admins inside the same state into a single record
 4. Data simplification: delete the unnecessary columns 
 5. Data organization: 
-  * calculate the total cases of each state and date
+  ** calculate the total cases of each state and date
   * create the death rate(%) column to "us_deaths" DataFrame and calculate it with map() and lambda
   * show the ratio of each state's death cases with pie chart
   * show the total confirmed/deaths cases per state with the higher order function - zip() 
