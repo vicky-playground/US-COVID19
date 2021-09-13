@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/90204593/133143634-eb65b12a-014d-4242-8b09-53b8e549a8a5.png" width="50">
-<img src="https://user-images.githubusercontent.com/90204593/133143664-97f29f5f-9e6c-4856-85dd-32b9d97cd96b.png" width="50">
-<img src="https://user-images.githubusercontent.com/90204593/133143677-af73a5f2-d5d6-4f44-a26e-e115dd73ce5c.png" width="50">
+<img src="https://user-images.githubusercontent.com/90204593/133143634-eb65b12a-014d-4242-8b09-53b8e549a8a5.png" width="100">
+<img src="https://user-images.githubusercontent.com/90204593/133143664-97f29f5f-9e6c-4856-85dd-32b9d97cd96b.png" width="100">
+<img src="https://user-images.githubusercontent.com/90204593/133143677-af73a5f2-d5d6-4f44-a26e-e115dd73ce5c.png" width="100">
 
 
 About the project
